@@ -1,0 +1,3 @@
+To change the colors of button and etc, open Colors.js from config folder and set color to each color.
+
+To change header style in all open App.js and change style in m2bHeaderStyle variable. It change the style in all the header.
